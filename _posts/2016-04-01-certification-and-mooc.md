@@ -9,7 +9,7 @@ date:   2016-04-01 11:31:49 +0200
 ---
 
 
-- [**CompTIA Security+ Certified**](/Certificates/CompTIA Security+cecertificate_Dheeraj_Ramchandani.pdf)
+- [**CompTIA Security+ Certified**](/Certificates/comptia.pdf)
 - [**Digital Signal Processing**](/Certificates/Coursera_Certificate_DSP_Ramchandani.pdf)  
 - [**Introduction to Linux**](/Certificates/Edx_Certificate_Ramchandani.pdf)    
 - [**Programming For Everybody Python**](/Certificates/Coursera_python_Ramchandani.pdf)    

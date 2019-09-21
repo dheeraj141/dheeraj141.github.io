@@ -6,14 +6,14 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Sep 2019 17:07:06 +0200</pubDate>
-    <lastBuildDate>Sat, 21 Sep 2019 17:07:06 +0200</lastBuildDate>
+    <pubDate>Sat, 21 Sep 2019 20:36:49 +0200</pubDate>
+    <lastBuildDate>Sat, 21 Sep 2019 20:36:49 +0200</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>Certification and MOOC</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/Certificates/CompTIA Security+cecertificate_Dheeraj_Ramchandani.pdf&quot;&gt;&lt;strong&gt;CompTIA Security+ Certified&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/Certificates/comptia.pdf&quot;&gt;&lt;strong&gt;CompTIA Security+ Certified&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/Certificates/Coursera_Certificate_DSP_Ramchandani.pdf&quot;&gt;&lt;strong&gt;Digital Signal Processing&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/Certificates/Edx_Certificate_Ramchandani.pdf&quot;&gt;&lt;strong&gt;Introduction to Linux&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/Certificates/Coursera_python_Ramchandani.pdf&quot;&gt;&lt;strong&gt;Programming For Everybody Python&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;

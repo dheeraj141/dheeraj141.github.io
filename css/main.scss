@@ -58,14 +58,22 @@ $on-laptop:        800px;
         @content;
     }
 }
+.Resume {
+  position : relative;
+  top: -106px;
+  left: 856px;
+  font-size: 20px;
+  font-family: italic;
+
+}
 
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",  
+        "base",
         "blocks",
-        "layout",        
+        "layout",
         "colors",
         "helpers",
         "progressbar",
