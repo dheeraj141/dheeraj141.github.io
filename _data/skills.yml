@@ -1,0 +1,28 @@
+-   id: C
+    descr: C
+    xp: 6
+-   id: C++
+    descr: C++
+    color: teal
+    xp: 6
+-   id: python
+    descr: python
+    xp: 5
+-   id: Kali_Linux
+    descr: kali Linux
+    xp: 7
+-   id: Data_Structures
+    descr: Data Structures
+    xp: 7
+-   id: Wireshark
+    descr: Wireshark
+    xp: 6
+#-   id: Nmap
+#    descr: jquery
+#    xp: 3
+#-   id: node.js
+#    descr: node.js
+#    xp: 2
+#-   id: php
+#    descr: php
+#    xp: 4
