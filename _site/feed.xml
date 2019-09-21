@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Portfolio</title>
+    <description>Dheeraj Ramchandani, dheerajramchandani106@gmail.com
+</description>
+    <link>http://localhost:4000/jekyll-slender-template/</link>
+    <atom:link href="http://localhost:4000/jekyll-slender-template/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 21 Sep 2019 13:38:46 +0200</pubDate>
+    <lastBuildDate>Sat, 21 Sep 2019 13:38:46 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Certification and MOOC</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/jekyll-slender-template/Certificates/CompTIA Security+ ce certificate_Dheeraj_Ramchandani.pdf&quot;&gt;&lt;strong&gt;CompTIA Security+ Certified&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/jekyll-slender-template/Certificates/Coursera_Certificate_DSP_Ramchandani.pdf&quot;&gt;&lt;strong&gt;Digital Signal Processing&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/jekyll-slender-template/Certificates/Edx_Certificate_Ramchandani.pdf&quot;&gt;&lt;strong&gt;Introduction to Linux&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/jekyll-slender-template/Certificates/Coursera_python_Ramchandani.pdf&quot;&gt;&lt;strong&gt;Programming For Everybody Python&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/jekyll-slender-template/Certificates/Coursera_Software_Security_Ramchandani.pdf&quot;&gt;&lt;strong&gt;Software Security by University of Maryland&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/jekyll-slender-template/Certificates/Coursera_Python_Data_struct_Ramchandani.pdf&quot;&gt;&lt;strong&gt;Python Data Structures&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/jekyll-slender-template/Certificates/Coursera_Linux_Security_Ramchandani.pdf&quot;&gt;&lt;strong&gt;Linux Server Management and Security&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 01 Apr 2016 11:31:49 +0200</pubDate>
+        <link>http://localhost:4000/jekyll-slender-template/2016/04/01/certification-and-mooc.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-slender-template/2016/04/01/certification-and-mooc.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Open Source Projects</title>
+        <description>
+</description>
+        <pubDate>Wed, 30 Mar 2016 11:31:49 +0200</pubDate>
+        <link>http://localhost:4000/jekyll-slender-template/jekyll/update/2016/03/30/open_source.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-slender-template/jekyll/update/2016/03/30/open_source.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Hobbies and Extra-curricular activities</title>
+        <description>&lt;h1 id=&quot;in-my-free-time-i-love-to-read-books-and-cook-i-care-about-nutrition-and-mostly-cook-myself-some-of-my-dishes-i-cooked-enjoy&quot;&gt;In my Free time i love to read books and Cook. I care about nutrition and mostly cook myself. Some of my dishes i cooked enjoy.&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/jekyll-slender-template/cooking/fish.jpg&quot; alt=&quot;**Fish Tikka**&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Mar 2016 11:31:49 +0200</pubDate>
+        <link>http://localhost:4000/jekyll-slender-template/jekyll/update/2016/03/30/Hobbies.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-slender-template/jekyll/update/2016/03/30/Hobbies.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Volunteering</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 30 Mar 2016 11:31:49 +0200</pubDate>
+        <link>http://localhost:4000/jekyll-slender-template/jekyll/update/2016/03/30/Volunteering.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-slender-template/jekyll/update/2016/03/30/Volunteering.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Achievements</title>
+        <description>
+</description>
+        <pubDate>Wed, 30 Mar 2016 11:31:49 +0200</pubDate>
+        <link>http://localhost:4000/jekyll-slender-template/jekyll/update/2016/03/30/Achievements.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-slender-template/jekyll/update/2016/03/30/Achievements.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Education</title>
+        <description>
+</description>
+        <pubDate>Wed, 30 Mar 2016 11:31:49 +0200</pubDate>
+        <link>http://localhost:4000/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Education</title>
+        <description>&lt;h1 id=&quot;national-institute-of-technology-warangal-bachelor-of-technology&quot;&gt;National Institute of Technology Warangal Bachelor of Technology&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Majors: Electronics and Communication Engineering&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Cumulative GPA: 8.14/10 First Division with Distinction&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Mar 2016 11:31:49 +0200</pubDate>
+        <link>http://localhost:4000/jekyll-slender-template/jekyll/update/2016/03/30/Education.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-slender-template/jekyll/update/2016/03/30/Education.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
