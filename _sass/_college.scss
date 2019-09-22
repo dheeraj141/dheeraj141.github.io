@@ -1,0 +1,25 @@
+.College_name{
+  font-size: 30px;
+  font-family: cursive;
+  color: teal;
+  float: left;
+  margin-right: 100px;
+}
+.college_pic{
+  width:150px;
+  height:150px;
+  border-radius: 10%;
+  float: right;
+  margin-right: 200px;
+  margin-top: 0px;
+  background-blend-mode: multiply;
+  background-color: white;
+
+
+}
+.clearfix{
+  overflow: auto;
+}
+.degree{
+  float: left;
+}

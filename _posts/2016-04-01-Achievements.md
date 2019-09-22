@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Achievements"
 color: red
 width:   3

@@ -6,27 +6,6 @@
   font-family: italic;
   color: #2f5687; }
 
-.College_name {
-  font-size: 30px;
-  font-family: cursive;
-  color: teal;
-  float: left;
-  margin-right: 100px; }
-
-.college_pic {
-  width: 150px;
-  height: 150px;
-  border-radius: 10%;
-  float: right;
-  background-blend-mode: multiply;
-  background-color: white; }
-
-.clearfix {
-  overflow: auto; }
-
-.degree {
-  float: left; }
-
 /**
  * Reset some basic elements
  */
@@ -733,3 +712,52 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.company_pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 10%;
+  float: right;
+  margin-right: 250px;
+  margin-top: 50px; }
+
+.company_summary {
+  margin-right: 450px;
+  font-size: 16px;
+  margin-top: 10px;
+  font-family: "roboto"; }
+
+.company_name {
+  color: #00FFFF; }
+
+.role_in_company {
+  font-family: cursive;
+  color: #C0C0C0;
+  font-size: 16px;
+  margin-right: 450px; }
+
+.company_location {
+  color: #FFA500; }
+
+.College_name {
+  font-size: 30px;
+  font-family: cursive;
+  color: teal;
+  float: left;
+  margin-right: 100px; }
+
+.college_pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 10%;
+  float: right;
+  margin-right: 200px;
+  margin-top: 0px;
+  background-blend-mode: multiply;
+  background-color: white; }
+
+.clearfix {
+  overflow: auto; }
+
+.degree {
+  float: left; }

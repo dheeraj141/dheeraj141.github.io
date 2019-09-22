@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Sep 2019 11:35:21 +0200</pubDate>
-    <lastBuildDate>Sun, 22 Sep 2019 11:35:21 +0200</lastBuildDate>
+    <pubDate>Sun, 22 Sep 2019 14:32:38 +0200</pubDate>
+    <lastBuildDate>Sun, 22 Sep 2019 14:32:38 +0200</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -30,12 +30,12 @@
       </item>
     
       <item>
-        <title>Open Source Projects</title>
+        <title>Personal Projects</title>
         <description>
 </description>
         <pubDate>Wed, 30 Mar 2016 11:31:49 +0200</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/03/30/open_source.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/03/30/open_source.html</guid>
+        <link>http://localhost:4000/jekyll/update/2016/03/30/Personal_projects.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/03/30/Personal_projects.html</guid>
         
         
         <category>jekyll</category>
@@ -61,25 +61,46 @@
       </item>
     
       <item>
-        <title>Volunteering</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Experience</title>
+        <description>&lt;div class=&quot;clearfix&quot;&gt;
+&lt;div class=&quot;company_pic&quot;&gt;
+&lt;img src=&quot;/assets/Samsung-Logo.png&quot; alt=&quot;Samsung logo pic&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;company_name&quot;&gt;
+&lt;h3&gt;Samsung Semiconductor India Research &lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;role_in_company&quot;&gt;
+&lt;h4&gt; Senior Software Engineer June 2016 - July 2019&lt;/h4&gt;&lt;/div&gt;
+&lt;div class=&quot;company_location&quot;&gt;
+&lt;p&gt; Bangalore India&lt;/p&gt;&lt;/div&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;div class=&quot;company_summary&quot;&gt;
+&lt;p&gt; Samsung was my first company and entry into the corporate world.
+I learned a lot in Samsung and made some good friends. My team worked on developing
+software solutions for memory (DRAM). This provided me an opportunity to delve deep
+and understand what happens exactly in RAM when your code runs. Understanding memory
+architecture and writing efficient code for it at system level. &lt;/p&gt;
+&lt;/div&gt; &lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;div class=&quot;clearfix&quot;&gt;
+&lt;div class=&quot;company_pic&quot;&gt;
+&lt;img src=&quot;/assets/DRDO.png&quot; alt=&quot;DRDO logo pic&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;company_name&quot;&gt;
+&lt;h3&gt;Defence Research Development organization&lt;/h3&gt; &lt;/div&gt;
+&lt;div class=&quot;role_in_company&quot;&gt;
+&lt;h4&gt; Junior Research Assistant May 2015 - June 2015&lt;/h4&gt;&lt;/div&gt;
+&lt;div class=&quot;company_location&quot;&gt;
+&lt;p&gt; Warangal India&lt;/p&gt;&lt;/div&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+&lt;div class=&quot;company_summary&quot;&gt;
+&lt;p&gt; Samsung was my first company and entry into the corporate world.
+I learned a lot in Samsung and made some good friends. My team worked on developing
+software solutions for memory (DRAM). This provided me an opportunity to delve deep
+and understand what happens exactly in RAM when your code runs. Understanding memory
+architecture and writing efficient code for it at system level. &lt;/p&gt; &lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:31:49 +0200</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/03/30/Volunteering.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/03/30/Volunteering.html</guid>
+        <link>http://localhost:4000/jekyll/update/2016/03/30/Experience.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/03/30/Experience.html</guid>
         
         
         <category>jekyll</category>
@@ -106,9 +127,9 @@
       <item>
         <title>Education</title>
         <description>&lt;div class=&quot;clearfix&quot;&gt; &lt;img class=&quot;college_pic&quot; src=&quot;/assets/georgia_tech_symbol.jpeg&quot; alt=&quot;Georgia Tech symbol&quot; /&gt;
-&lt;div class=&quot;College_name&quot;&gt;
+&lt;div class=&quot;company_name&quot;&gt;
 &lt;h3&gt; &lt;a href=&quot;https://www.gatech.edu/&quot;&gt;Georgia Institute of Technology Atlanta &lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
-&lt;div class=&quot;degree&quot;&gt;
+&lt;div class=&quot;role_in_company&quot;&gt;
 &lt;p&gt; Masters in Computer Engineering  June 2021&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Courses : Computer Vision, Machine Learning for Robotics, Cryptograhy&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -116,12 +137,16 @@
 &lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;clearfix&quot;&gt;
 &lt;img class=&quot;college_pic&quot; src=&quot;/assets/nitw.png&quot; alt=&quot;NIT Warangal symbol&quot; /&gt;
-&lt;div class=&quot;College_name&quot;&gt;
+&lt;div class=&quot;company_name&quot;&gt;
 &lt;h3&gt;&lt;a href=&quot;https://www.nitw.ac.in&quot;&gt; National Institute of Technology Warangal&lt;/a&gt; &lt;/h3&gt;
 &lt;/div&gt;
-&lt;div class=&quot;degree&quot;&gt;
+&lt;div class=&quot;role_in_company&quot;&gt;
 &lt;p&gt;B-Tech in Electronics and Communication Engineering June 2016 GPA (8.14/10)&lt;/p&gt;
 Courses: Computer Architecture, Computer Networks, Microprocessors, Data Structures and Algorithms&lt;/div&gt;
+&lt;div class=&quot;company_summary&quot;&gt;
+&lt;p&gt;Those four years at NIT Warangal couldn't be more interesting. A boy came into the college and a men left.
+It was my first time staying away from the family, it helped me to become more independent and take resposnbilities.
+made friends for life , one of the best days of my life. &lt;/p&gt; &lt;/div&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:31:49 +0200</pubDate>

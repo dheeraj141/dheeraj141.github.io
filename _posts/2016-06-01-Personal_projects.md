@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Open Source Projects"
+layout: page
+title:  "Personal Projects"
 color:  blue
 width:   3
 height:  1

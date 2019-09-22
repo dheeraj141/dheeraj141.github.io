@@ -9,9 +9,9 @@ categories: jekyll update
 ---
 
 <div class="clearfix"> <img class="college_pic" src="/assets/georgia_tech_symbol.jpeg" alt ="Georgia Tech symbol">
-<div class="College_name">
+<div class="company_name">
 <h3> <a href ="https://www.gatech.edu/">Georgia Institute of Technology Atlanta </a></h3></div>
-<div class="degree">
+<div class="role_in_company">
 <p> Masters in Computer Engineering  June 2021</p>
 <p><b>Courses : Computer Vision, Machine Learning for Robotics, Cryptograhy</b></p></div>
 </div>
@@ -19,10 +19,14 @@ categories: jekyll update
 <br>
 <div class="clearfix">
 <img class="college_pic" src="/assets/nitw.png" alt ="NIT Warangal symbol">
-<div class="College_name">
+<div class="company_name">
 <h3><a href="https://www.nitw.ac.in"> National Institute of Technology Warangal</a> </h3>
 </div>
-<div class="degree">
+<div class="role_in_company">
 <p>B-Tech in Electronics and Communication Engineering June 2016 GPA (8.14/10)</p>
 Courses: Computer Architecture, Computer Networks, Microprocessors, Data Structures and Algorithms</div>
+<div class="company_summary">
+<p>Those four years at NIT Warangal couldn't be more interesting. A boy came into the college and a men left.
+It was my first time staying away from the family, it helped me to become more independent and take resposnbilities.
+made friends for life , one of the best days of my life. </p> </div>
 </div>
