@@ -31,7 +31,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 100 14px/1.5 "Georgia", Helvetica, Arial;
+  font: 100 14px/1.5 "Georgia";
   color: #fefefe;
   background-color: #082736;
   -webkit-text-size-adjust: 100%;
