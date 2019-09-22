@@ -1,5 +1,5 @@
 .Resume {
-  position: fixed;
+  position: relative;
   top: 15px;
   left: 1100px;
   font-size: 20px;
@@ -576,7 +576,7 @@ pre {
   .progress .progress-9 {
     width: 90%;
     height: 100%;
-    background-color: #4CAF50;
+    background-color: #FB8C00;
     border-radius: 2px; }
   .progress .progress-10 {
     width: 100%;

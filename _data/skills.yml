@@ -3,7 +3,7 @@
     xp: 6
 -   id: C++
     descr: C++
-    color: teal
+    color: red
     xp: 6
 -   id: python
     descr: python
@@ -17,9 +17,9 @@
 -   id: HTML
     descr: HTML
     xp: 6
-#-   id: Nmap
-#    descr: jquery
-#    xp: 3
+-   id: CSS
+    descr: CSS
+    xp: 5
 #-   id: node.js
 #    descr: node.js
 #    xp: 2
