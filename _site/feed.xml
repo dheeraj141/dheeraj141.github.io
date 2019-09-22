@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Sep 2019 14:32:38 +0200</pubDate>
-    <lastBuildDate>Sun, 22 Sep 2019 14:32:38 +0200</lastBuildDate>
+    <pubDate>Sun, 22 Sep 2019 15:43:37 +0200</pubDate>
+    <lastBuildDate>Sun, 22 Sep 2019 15:43:37 +0200</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -30,8 +30,77 @@
       </item>
     
       <item>
-        <title>Personal Projects</title>
-        <description>
+        <title>Projects</title>
+        <description>&lt;div class=&quot;project_heading&quot;&gt;
+&lt;h4&gt;DRAM Solutions&lt;/h4&gt; &lt;/div&gt;
+&lt;div class=&quot;project_description&quot;&gt;
+&lt;ui&gt;
+  &lt;li&gt; To decode and implement CPGC( converged pattern generator and checker ) an Intel proprietary on PCT 1.5 ( a customized Intel kabylake board used for testing DDR4's in Korea ). CPGC is a reusable BIST ( built in self-test ) engine to detect memory ( DRAM ) and IO defects with software assisted repair technology ( PPR ) to repair them.&lt;/li&gt;
+  &lt;li&gt;As part of this development I studied CPGC patents and did reverse engineering to figure out the features and functionalities of it which included making changes in BIOS code of Intel kabylake to develop our own pattern using CPGC and then validating the same on the DRAM data bus using inter-posers and logic analyzer (1333 MHz).&lt;/li&gt;
+  &lt;li&gt;Implemented BIST algorithms like MARCH and MATS using CPGC in the BIOS code to increase the test coverage and reduce the test time as CPGC is faster than the software testing.&lt;/li&gt;
+  &lt;li&gt;Enabled CPGC for memory training to reduce the validation time.&lt;/li&gt;
+  &lt;/ui&gt;
+  &lt;/div&gt;
+
+&lt;div class=&quot;project_heading&quot;&gt;
+  &lt;h4&gt;Analyze Mobile Payment Apps&lt;/h4&gt; &lt;/div&gt;
+&lt;div class=&quot;project_description&quot;&gt;
+  &lt;ui&gt;
+    &lt;li&gt; Analyzing an Android mobile payment app to check for Security vulnerabilities concentrating on communication protocols used, proper authentication and cryptographic implementation.&lt;/li&gt;
+    &lt;li&gt;Did automated analysis of the app to check for SSL/TLS vulnerabilities like certification errors using mallodroid.&lt;/li&gt;
+    &lt;li&gt;Used qualys SSL server test to check for SSL/TLS end point vulnerabilities.&lt;/li&gt;
+    &lt;li&gt;Manual analysis of the app code for behavior of the app, data flows, permissions and information leakage.&lt;/li&gt;
+    &lt;li&gt;checking proper implementation of the cryptography which included verifying message encryption and integrity&lt;/li&gt;
+    &lt;/ui&gt;
+    &lt;/div&gt;
+
+&lt;div class=&quot;project_heading&quot;&gt;
+&lt;h4&gt; Security DIMM&lt;/h4&gt;&lt;/div&gt;
+&lt;div class=&quot;project_description&quot;&gt;
+    &lt;ui&gt;
+
+      &lt;li&gt;Project to develop a security IP inside DRAM that will make some region of the dram as read only once the IP is enabled.&lt;/li&gt;
+      &lt;li&gt;It involved two phases hacking and security. As part of this project I developed 2 exploits to hack the
+      Linux kernel which were than protected using the security IP.&lt;/li&gt;
+      &lt;li&gt;Hacking a remote Ubuntu PC using Kali Linux and modifying the kernel (version 4.2) code : Assuming the attacker
+      knows the IP and username of the victim.&lt;/li&gt;
+      &lt;li&gt;Used hydra-gtk to crack the password using dictionary based attack and then elevating the privileges to root using Dirty cow (CVE-2016-5195) exploit.&lt;/li&gt;
+      &lt;li&gt;Determining the address of the kernel code section using cat/proc/iomem and erasing the 16th bit of CR0 Register which allowed modification of kernel code.&lt;/li&gt;
+    &lt;/ui&gt;
+  &lt;/div&gt;
+
+&lt;div class=&quot;project_heading&quot;&gt;
+&lt;h4&gt; Row Hammering&lt;/h4&gt;&lt;/div&gt;
+&lt;div class=&quot;project_description&quot;&gt;
+    &lt;ui&gt;
+
+      &lt;li&gt;Exploit in Linux to modify kernel code DRAM by a normal application using row hammering vulnerability.&lt;/li&gt;
+      &lt;li&gt;Created a shared memory segment and mapped it multiple times to fill most of the physical memory with page table.&lt;/li&gt;
+      &lt;li&gt;Row hammering was done on the page table to cause a bit flip in the page table entry to point it to one of the page table rather than physical address.&lt;/li&gt;
+      &lt;li&gt;Got read/write access to the whole physical memory by modifying that page table which could be used for modifying kernel code.&lt;/li&gt;
+    &lt;/ui&gt;
+  &lt;/div&gt;
+
+&lt;div class=&quot;project_heading&quot;&gt;
+&lt;h4&gt; IO-Margin&lt;/h4&gt; &lt;/div&gt;
+&lt;div class=&quot;project_description&quot;&gt;
+&lt;ui&gt;
+
+&lt;li&gt; Designed and developed the back end of the software in C language to analyze the effect of timing parameter tRAS, tCL, tRCD) on the DRAM performance (latency , ISI , cross-talks , data rate) and to set the best case of parameters for max imal performance based on eye diag ram.&lt;/li&gt;
+&lt;/ui&gt;&lt;/div&gt;
+
+&lt;div class=&quot;project_heading&quot;&gt;
+&lt;h4&gt;EPICS (Engineering Projects in Community Service) &lt;/h4&gt;&lt;/div&gt;
+&lt;div class=&quot;project_description&quot;&gt;
+
+&lt;ui&gt;
+&lt;li&gt; Smart Chair for Disabled People: Project Involved Building Smart chair with control movement, call facility and lighting control features.&lt;/li&gt;
+&lt;li&gt;Designed and Implemented the Smart lighting features using Arduino UNO board, relays, Bluetooth Module(HC-05) to
+control the lighting using buttons given on chair.&lt;/li&gt;
+&lt;li&gt;Demonstrated skills of coding in C, understanding of pin diagrams and AVR microcontroller, debugging and working of
+Bluetooth module.&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Learning : AVR Microcontroller, HC-05 Bluetooth Module, Arduino.&lt;/b&gt;&lt;/li&gt;
+&lt;/ui&gt;&lt;/div&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:31:49 +0200</pubDate>
         <link>http://localhost:4000/jekyll/update/2016/03/30/Personal_projects.html</link>
@@ -131,8 +200,13 @@ architecture and writing efficient code for it at system level. &lt;/p&gt; &lt;/
 &lt;h3&gt; &lt;a href=&quot;https://www.gatech.edu/&quot;&gt;Georgia Institute of Technology Atlanta &lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
 &lt;div class=&quot;role_in_company&quot;&gt;
 &lt;p&gt; Masters in Computer Engineering  June 2021&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Courses : Computer Vision, Machine Learning for Robotics, Cryptograhy&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;&lt;b&gt;Courses : Computer Vision, Machine Learning for Robotics, Cryptography&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;company_summary&quot;&gt;
+&lt;p&gt; Back to the student life , I am thrilled to study at Georgia Tech my dream college and make some good
+Friends. The experience of studying abroad is one of its kind and I feel lucky to be given that opportunity.
+&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
+
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;clearfix&quot;&gt;
@@ -145,7 +219,7 @@ architecture and writing efficient code for it at system level. &lt;/p&gt; &lt;/
 Courses: Computer Architecture, Computer Networks, Microprocessors, Data Structures and Algorithms&lt;/div&gt;
 &lt;div class=&quot;company_summary&quot;&gt;
 &lt;p&gt;Those four years at NIT Warangal couldn't be more interesting. A boy came into the college and a men left.
-It was my first time staying away from the family, it helped me to become more independent and take resposnbilities.
+It was my first time staying away from the family, it helped me to become more independent and take responsibilities.
 made friends for life , one of the best days of my life. &lt;/p&gt; &lt;/div&gt;
 &lt;/div&gt;
 </description>
