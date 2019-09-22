@@ -74,13 +74,20 @@ $on-laptop:        800px;
   margin-right: 100px;
 }
 .college_pic{
-  width:200px;
-  height:200px;
+  width:150px;
+  height:150px;
   border-radius: 10%;
   float: right;
-  position: relative;
-  right: 0px;
+  background-blend-mode: multiply;
+  background-color: white;
 
+
+}
+.clearfix{
+  overflow: auto;
+}
+.degree{
+  float: left;
 }
 
 

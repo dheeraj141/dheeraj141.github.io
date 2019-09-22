@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Sep 2019 10:40:19 +0200</pubDate>
-    <lastBuildDate>Sun, 22 Sep 2019 10:40:19 +0200</lastBuildDate>
+    <pubDate>Sun, 22 Sep 2019 11:20:15 +0200</pubDate>
+    <lastBuildDate>Sun, 22 Sep 2019 11:20:15 +0200</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -105,39 +105,24 @@
     
       <item>
         <title>Education</title>
-        <description>
-</description>
-        <pubDate>Wed, 30 Mar 2016 11:31:49 +0200</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/03/30/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/03/30/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Education</title>
-        <description>&lt;p&gt;&lt;img class=&quot;college_pic&quot; src=&quot;/assets/georgia_tech_symbol.jpeg&quot; alt=&quot;Georgia Tech symbol&quot; /&gt;&lt;/p&gt;
+        <description>&lt;div class=&quot;clearfix&quot;&gt; &lt;img class=&quot;college_pic&quot; src=&quot;/assets/georgia_tech_symbol.jpeg&quot; alt=&quot;Georgia Tech symbol&quot; /&gt;
 &lt;div class=&quot;College_name&quot;&gt;
-&lt;h3&gt; Georgia Institute of Technology Atlanta &lt;/h3&gt;&lt;/div&gt;
+&lt;h3&gt; &lt;a href=&quot;https://www.gatech.edu/&quot;&gt;Georgia Institute of Technology Atlanta &lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
 &lt;div class=&quot;degree&quot;&gt;
-&lt;p&gt; Masters in Computer Engineering  Aug 2019 - June 2021&lt;/p&gt;&lt;/div&gt;
-&lt;div class=&quot;courses&quot;&gt;
-&lt;p&gt;&lt;b&gt;Courses : Computer Vision, Machine Learning for Robotics, Cryptograhy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt; Masters in Computer Engineering  June 2021&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Courses : Computer Vision, Machine Learning for Robotics, Cryptograhy&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
-
-&lt;p&gt;&lt;img class=&quot;college_pic&quot; src=&quot;/assets/nitw.png&quot; alt=&quot;NIT Warangal symbol&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;clearfix&quot;&gt;
+&lt;img class=&quot;college_pic&quot; src=&quot;/assets/nitw.png&quot; alt=&quot;NIT Warangal symbol&quot; /&gt;
 &lt;div class=&quot;College_name&quot;&gt;
-&lt;h3&gt; B-Tech National Institute of Technology Warangal &lt;/h3&gt;
+&lt;h3&gt;&lt;a href=&quot;https://www.nitw.ac.in&quot;&gt; National Institute of Technology Warangal&lt;/a&gt; &lt;/h3&gt;
 &lt;/div&gt;
 &lt;div class=&quot;degree&quot;&gt;
-&lt;p&gt;&lt;b&gt;Majors: Electronics and Communication Engineering  &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;B-Tech in Electronics and Communication Engineering June 2016 GPA (8.14/10)&lt;/p&gt;
+Courses: Computer Architecture, Computer Networks, Microprocessors, Data Structures and Algorithms&lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;courses&quot;&gt;
-GPA: 8.14/10 First Division with Distinction&lt;/div&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:31:49 +0200</pubDate>
         <link>http://localhost:4000/jekyll/update/2016/03/30/Education.html</link>
