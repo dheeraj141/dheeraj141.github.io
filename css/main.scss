@@ -61,7 +61,7 @@ $on-laptop:        800px;
 .Resume {
   position : relative;
   top: 15px;
-  left: 1100px;
+  left: 800px;
   font-size: 20px;
   font-family: italic;
 
@@ -70,6 +70,8 @@ $on-laptop:        800px;
   font-size: 30px;
   font-family: cursive;
   color: teal;
+  float: left;
+  margin-right: 100px;
 }
 .college_pic{
   width:200px;
