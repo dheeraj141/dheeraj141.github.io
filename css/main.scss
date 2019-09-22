@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "Georgia", Helvetica, Arial, sans-serif;
 $base-font-size:   14px;
 $base-font-weight: 100;
 $small-font-size:  $base-font-size * 0.875;
@@ -64,6 +64,20 @@ $on-laptop:        800px;
   left: 1100px;
   font-size: 20px;
   font-family: italic;
+
+}
+.College_name{
+  font-size: 30px;
+  font-family: cursive;
+  color: teal;
+}
+.college_pic{
+  width:200px;
+  height:200px;
+  border-radius: 10%;
+  float: right;
+  position: relative;
+  right: 0px;
 
 }
 

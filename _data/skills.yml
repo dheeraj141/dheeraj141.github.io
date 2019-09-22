@@ -7,15 +7,15 @@
     xp: 6
 -   id: python
     descr: python
-    xp: 5
--   id: Kali_Linux
-    descr: kali Linux
+    xp: 7
+-   id: OpenCV
+    descr: OpenCV
     xp: 7
 -   id: Data_Structures
     descr: Data Structures
     xp: 7
--   id: Wireshark
-    descr: Wireshark
+-   id: HTML
+    descr: HTML
     xp: 6
 #-   id: Nmap
 #    descr: jquery
