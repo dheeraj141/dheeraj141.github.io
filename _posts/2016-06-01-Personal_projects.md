@@ -17,7 +17,7 @@ categories: jekyll update
 <div class="Project_details">
   <ul>
     <li><p> Understood CPGC ( hardware memory tester which can be programmed using software) and implemented algorithms (in C language) such as March X, March Y to test DRAM using it.</p></li>
-    <li>Resulted in 50% faster memory testing as compared to system level testing.</p></li>
+    <li><p>Resulted in 50% faster memory testing as compared to system level testing.</p></li>
     </ul>
 </div>
 
@@ -63,7 +63,7 @@ categories: jekyll update
   </ul>
 </div>
 
-<div class="Project_heading">
+<div class="project_heading">
   <h4>EPICS (Engineering Projects in Community Service) </h4>
 </div>
 <div class="project_description">
