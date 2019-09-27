@@ -6,15 +6,6 @@
   font-family: italic;
   color: #2f5687; }
 
-.project_description {
-  font-size: 16px;
-  margin-right: 300px;
-  margin-top: 10px; }
-
-.project_heading {
-  margin-top: 20px;
-  color: #00FFFF; }
-
 /**
  * Reset some basic elements
  */
@@ -740,7 +731,7 @@ pre {
   color: #00FFFF; }
 
 .role_in_company {
-  font-family: cursive;
+  font-family: Helvetica;
   color: #C0C0C0;
   font-size: 16px;
   margin-right: 450px; }
@@ -770,3 +761,18 @@ pre {
 
 .degree {
   float: left; }
+
+.project_description {
+  font-size: 16px;
+  font-family: Helvetica;
+  margin-right: 250px;
+  margin-top: 10px;
+  color: #C0C0C0; }
+
+.project_heading {
+  margin-top: 20px;
+  color: #00FFFF; }
+
+.Project_details {
+  padding-right: 40;
+  font-family: Georgia; }
