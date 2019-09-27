@@ -12,10 +12,8 @@ categories: jekyll update
 <h4>DRAM Solutions</h4> </div>
 <div class="project_description">
 <ui>
-  <li> To decode and implement CPGC( converged pattern generator and checker ) an Intel proprietary on PCT 1.5 ( a customized Intel kabylake board used for testing DDR4's in Korea ). CPGC is a reusable BIST ( built in self-test ) engine to detect memory ( DRAM ) and IO defects with software assisted repair technology ( PPR ) to repair them.</li>
-  <li>As part of this development I studied CPGC patents and did reverse engineering to figure out the features and functionalities of it which included making changes in BIOS code of Intel kabylake to develop our own pattern using CPGC and then validating the same on the DRAM data bus using inter-posers and logic analyzer (1333 MHz).</li>
-  <li>Implemented BIST algorithms like MARCH and MATS using CPGC in the BIOS code to increase the test coverage and reduce the test time as CPGC is faster than the software testing.</li>
-  <li>Enabled CPGC for memory training to reduce the validation time.</li>
+  <li><h2> Understood CPGC ( hardware memory tester which can be programmed using software) and implemented algorithms (in C language) to test DRAM using it. Resulted in 50% faster memory testing as compared to system level testing.</h2></li>
+
   </ui>
   </div>
 
